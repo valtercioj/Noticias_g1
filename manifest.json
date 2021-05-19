@@ -1,0 +1,14 @@
+{
+	"manifest_version":2,
+	"name":"News G1",
+	"version":"0.1",
+	
+	"browser_action":{
+		"default_popup":"./index.html",
+		"default_icon":"./G1_logo.svg.png"
+	},
+
+	"permissions":[
+		"activeTab"
+	]
+}

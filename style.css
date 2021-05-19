@@ -1,0 +1,21 @@
+body{
+	width: 350px;
+	height: 210px;
+	background-color: #F0FFFF;
+	background:url(https://m.molitics.in/img/loading.705ba6e0.gif)
+}
+ol{
+	color: red;
+	font-size: 15px;
+	font-style: oblique; 
+}
+
+#btn{
+	 width: 350px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #FCC302;
+    font-size: 22px;
+}
